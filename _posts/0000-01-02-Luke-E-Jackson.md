@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Learning github basics
+The lady doth protest too much, methinks
 Use the left arrow to go back!
